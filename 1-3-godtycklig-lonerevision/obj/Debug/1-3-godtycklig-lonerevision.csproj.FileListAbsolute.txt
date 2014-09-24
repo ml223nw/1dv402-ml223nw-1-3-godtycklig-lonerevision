@@ -4,3 +4,9 @@ c:\users\mathias\documents\visual studio 2013\Projects\1-3-godtycklig-lonerevisi
 c:\users\mathias\documents\visual studio 2013\Projects\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\bin\Debug\1-3-godtycklig-lonerevision.pdb
 c:\users\mathias\documents\visual studio 2013\Projects\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\obj\Debug\1-3-godtycklig-lonerevision.exe
 c:\users\mathias\documents\visual studio 2013\Projects\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\obj\Debug\1-3-godtycklig-lonerevision.pdb
+C:\Users\Mathias\Source\Repos\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\bin\Debug\1-3-godtycklig-lonerevision.exe.config
+C:\Users\Mathias\Source\Repos\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\obj\Debug\1-3-godtycklig-lonerevision.exe
+C:\Users\Mathias\Source\Repos\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\obj\Debug\1-3-godtycklig-lonerevision.pdb
+C:\Users\Mathias\Source\Repos\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\bin\Debug\1-3-godtycklig-lonerevision.exe
+C:\Users\Mathias\Source\Repos\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\bin\Debug\1-3-godtycklig-lonerevision.pdb
+C:\Users\Mathias\Source\Repos\1-3-godtycklig-lonerevision\1-3-godtycklig-lonerevision\obj\Debug\1-3-godtycklig-lonerevision.csprojResolveAssemblyReference.cache
